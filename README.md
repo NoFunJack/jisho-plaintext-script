@@ -2,7 +2,7 @@
 
 Small script that can be injected into jisho.org. 
 
-Formats a word into a plaintext format and puts it into the clipboard. 
+Formats a word into a pasteable plaintext and puts it into the clipboard. 
 
 **jquery is required**
 
